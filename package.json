@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/stdiohakacy/grpc-server-streaming/issues"
   },
-  "homepage": "https://github.com/stdiohakacy/grpc-server-streaming#readme"
+  "homepage": "https://github.com/stdiohakacy/grpc-server-streaming#readme",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.3.7"
+  }
 }
